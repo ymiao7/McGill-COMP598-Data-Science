@@ -1,0 +1,1 @@
+There exists several duplicate tweets in the original data. There is a chance that the word Trump may appear in some of these tweets and get counted more than once. So this is where the counting problem is coming from.

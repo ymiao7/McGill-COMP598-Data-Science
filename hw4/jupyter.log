@@ -1,0 +1,21 @@
+[I 20:56:05.985 NotebookApp] Serving notebooks from local directory: /home/ubuntu/nyc_dash
+[I 20:56:05.985 NotebookApp] Jupyter Notebook 6.1.4 is running at:
+[I 20:56:05.985 NotebookApp] https://ip-172-31-50-225:8888/
+[I 20:56:05.985 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 20:56:10.943 NotebookApp] 302 GET / (168.91.59.122) 0.58ms
+[I 20:56:11.004 NotebookApp] 302 GET /tree? (168.91.59.122) 0.77ms
+[I 20:56:12.749 NotebookApp] 302 GET /tree? (168.91.59.122) 0.66ms
+[I 20:56:16.022 NotebookApp] 302 POST /login?next=%2Ftree%3F (168.91.59.122) 102.58ms
+[W 20:56:19.467 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201016205605 (168.91.59.122) 6.79ms referer=https://100.26.20.255:8888/notebooks/print_zipcodes.ipynb
+[I 20:56:19.634 NotebookApp] Kernel started: 827d6ff3-ade2-4616-9eab-c68c95cf2a01, name: python3
+[I 20:56:57.963 NotebookApp] Saving file at /print_zipcodes.ipynb
+[I 20:57:01.296 NotebookApp] Starting buffering for 827d6ff3-ade2-4616-9eab-c68c95cf2a01:8b4fc140fd544164bad87c3238bd1dab
+[I 20:57:08.532 NotebookApp] interrupted
+Serving notebooks from local directory: /home/ubuntu/nyc_dash
+1 active kernel
+Jupyter Notebook 6.1.4 is running at:
+https://ip-172-31-50-225:8888/
+Shutdown this notebook server (y/[n])? [C 20:57:08.668 NotebookApp] received signal 2, stopping
+[I 20:57:08.668 NotebookApp] Shutting down 1 kernel
+[I 20:57:08.969 NotebookApp] Kernel shutdown: 827d6ff3-ade2-4616-9eab-c68c95cf2a01
+[I 20:57:08.970 NotebookApp] Shutting down 0 terminals
